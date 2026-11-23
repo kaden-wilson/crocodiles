@@ -5,7 +5,12 @@
 <title>The Sreet of Crocodiles</title>
 </head>
 <body> <h1>The Street of Crocodiles</h1>
-
+<nav>
+    <ul>
+        <li><a href="#mornings">Luminous Mornings</a></li>
+        <li><a href="#markety">Market Square</a></li>
+        <li><a href="#street">Stryjska Street</a></li>
+        <li><a href="#contact">Contact</a></li>
 <h2>Bruno Schultz</h2>
 
 <p>In July my father went to take the waters and left me, with my mother and elder brother, a
@@ -13,9 +18,9 @@ prey to the blinding white heat of the summer days. Dizzy with light, we dipped 
 enormous book of holidays, its pages blazing with sunshine and scented with the sweet
 melting pulp of golden pears.</p>
 
-<p><em>Luminous Mornings</em></p>
+<h2>Luminous Mornings<h2>
 
-<p>On those luminous mornings Adela returned from the market, like Pomona emerging from
+    <p>On those luminous mornings Adela returned from the market, like Pomona emerging from
 the flames of day, spilling from her basket the colourful beauty of the sun - the shiny pink
 cherries full of juice under their transparent skins, the mysterious black morellos that
 smelled so much better than they tasted; apricots in whose golden pulp lay the core of long
@@ -43,7 +48,7 @@ old and the young, women and children, greeted each other with these masks, pain
 their faces with thick gold paint; they smiled at each other's pagan faces—the barbaric
 smiles of Bacchus."</p>
 
-<p><em>The Market Square</em></p>
+<h2>The Market Square<h2>
 
 <p>Market Square was empty and white-hot, swept by hot winds like a biblical desert. The
 thorny acacias, growing in this emptiness, looked with their bright leaves like the trees on
